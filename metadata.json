@@ -1,0 +1,6 @@
+{
+  "name": "LearnTest AI",
+  "description": "Turn educational YouTube videos into intelligent assessments and discover what you actually understand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
